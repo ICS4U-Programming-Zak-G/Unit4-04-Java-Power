@@ -1,0 +1,8 @@
+4 ^ 5 = 1024
+hi is not an integer.
+hi is not a positive integer.
+-2 ^ 5 = -32
+-8 cannot be a negative exponent.
+Please enter two integers only.
+Please enter two integers only.
+Please enter two integers only.
